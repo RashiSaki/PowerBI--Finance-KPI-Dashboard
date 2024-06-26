@@ -4,10 +4,15 @@ The dashboard is designed to be highly interactive, allowing users to filter dat
 
 **Features**
 Actual vs Target Sales Visualization: Easily compare actual sales figures against target sales goals.
+
 Variance % Calculation: Analyze the percentage variance between actual and target sales to identify performance gaps.
+
 Interactive Filters: Filter data by teams to drill down into specific performance metrics.
+
 Advanced DAX Queries: Utilize advanced DAX (Data Analysis Expressions) queries for dynamic calculations and data manipulation.
+
 Data Relationships: Establish relationships between multiple tables to ensure accurate data modeling and seamless data integration.
+
 
 **Advanced Power BI Features Utilized**
 Custom DAX Measures: We have created custom DAX measures to calculate variance percentages, aggregate sales data, and perform complex data analysis.
